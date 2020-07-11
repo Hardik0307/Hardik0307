@@ -1,7 +1,7 @@
 ### :bookmark:	 Greetings Friend , I am [Hardik](https://hardik0307.github.io/)👋
 
 <a href="https://www.linkedin.com/in/hardik-bagada/">
-  <img " alt="Hardik Bagada | LinkedIN" width="20px" src="/assets/icons8-linkedin.png" />
+  <img " alt="Hardik Bagada | LinkedIN" width="20px" src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/icons8-linkedin.svg" />
 </a>
 <a href="https://medium.com/@bagadahardik2000">
   <img alt="Hardik's Medium" width="19px" src="/assets/icons8-medium-monogram.png" />
