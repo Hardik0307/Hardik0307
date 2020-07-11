@@ -25,4 +25,6 @@ Hi, I'm Hardik Bagada, a passionate software developer from :earth_asia: India.
 ![Stats](https://github-readme-stats.vercel.app/api?username=Hardik0307&show_icons=true)
 
 
-*Thanks* :pray: *Github for this special feature.*:innocent:	
+*Thanks* :pray: *Github for this special feature.*:innocent:
+<br/>
+*Stats generated from [README Stats](https://github.com/anuraghazra/github-readme-stats)*.
