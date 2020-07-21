@@ -1,5 +1,6 @@
 ### :bookmark:	 Greetings Friend , I am [Hardik](https://hardik0307.github.io/)👋
 
+
 <a href="https://www.linkedin.com/in/hardik-bagada/">
   <img " alt="Hardik Bagada | LinkedIN" width="24px" src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/icons8-linkedin.svg" />
 </a>
@@ -9,7 +10,9 @@
 <a href="https://twitter.com/hrbagada">
   <img  alt="Hardik's Twitter" width="24px" src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/icons8-twitter.svg" />
 </a>
-<br/>
+																	  
+![](https://komarev.com/ghpvc/?username=Hardik0307&color=green)											
+
 <br/>
 	
 Hi, I'm Hardik Bagada, a passionate software developer from :earth_asia: India. 
