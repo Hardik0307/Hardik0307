@@ -15,13 +15,13 @@
 </a>																	  
 																	  
 																	  
-![](https://komarev.com/ghpvc/?username=Hardik0307&color=green)											
+<!-- ![](https://komarev.com/ghpvc/?username=Hardik0307&color=green)	-->										
 <br/>
 	
 Hi, I'm Hardik Bagada, a passionate software developer from :earth_asia: India. 
 
 - :diamond_shape_with_a_dot_inside:	 I’m final year CE Student at [DDU](https://ddu.ac.in/).
-- 🔭 I’m web development team member at [DSC-DDU](http://www.dscddu.com/).
+- 🔭 I’m Core Team Member and Head of Web Development Team at [DSC-DDU](http://www.dscddu.com/).
 - 🌱 I’m currently sharpening my algorithmic skills on various coding plateforms.
 - :spider_web:	This is my [portfolio](https://hardik0307.github.io/).
 - :desktop_computer: Have a look on my [projects](https://github.com/Hardik0307?tab=repositories).
