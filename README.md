@@ -13,9 +13,7 @@
 <a href="https://t.me/hrbagada">
   <img  alt="Hardik's Telegram" width="24px" src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/icons8-telegram-app.svg"/>
 </a>																	  
-																	  
-																	  
-<!-- ![](https://komarev.com/ghpvc/?username=Hardik0307&color=green)	-->										
+																	 										
 <br/>
 	
 Hi, I'm Hardik Bagada, a passionate software developer from :earth_asia: India. 
