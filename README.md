@@ -18,7 +18,7 @@
 	
 Hi, I'm Hardik Bagada, a passionate software developer from :earth_asia: India. 
 
-- :diamond_shape_with_a_dot_inside:	 I’m final year CE Student at [DDU](https://ddu.ac.in/).
+- :diamond_shape_with_a_dot_inside:	 I’m final semester CE Student at [DDU](https://ddu.ac.in/).
 - 🔭 I’m Core Team Member and Head of Web Development Team at [DSC-DDU](http://www.dscddu.com/).
 - 🌱 I’m currently sharpening my algorithmic skills on various coding plateforms.
 - :spider_web:	This is my [portfolio](https://hardik0307.github.io/).
