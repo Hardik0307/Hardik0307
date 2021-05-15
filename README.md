@@ -1,4 +1,4 @@
-### :bookmark:	 Greetings Friend , I am [Hardik](https://hardik0307.github.io/)👋
+### :bookmark:	 Greetings Friend , I am Hardik👋
 
 
 <a href="https://www.linkedin.com/in/hardik-bagada/">
