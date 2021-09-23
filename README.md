@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/hardik-bagada/">
   <img " alt="Hardik Bagada | LinkedIN" width="24px" src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/icons8-linkedin.svg" />
 </a>
-<a href="https://medium.com/@bagadahardik2000">
+<a href="https://medium.com/@hrbagada">
   <img alt="Hardik's Medium" width="24px" src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/icons8-medium-monogram.svg" />
 </a>
 <a href="https://twitter.com/hrbagada">
