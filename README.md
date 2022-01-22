@@ -19,7 +19,7 @@
 Hi, I'm Hardik Bagada, a passionate software developer from :earth_asia: India. 
 
 - :diamond_shape_with_a_dot_inside:	 I’m graduate CE from [DDU](https://ddu.ac.in/).
-- 🔭 I’m Core Team Member and Head of Web Development Team at [DSC-DDU](http://www.dscddu.com/).
+- 🔭 I have worked as Core Team Member and Head of Web Development Team at [DSC-DDU](http://www.dscddu.com/).
 - 🌱 I’m currently working on frontend technologies.
 - :desktop_computer: Have a look on my [projects](https://github.com/Hardik0307?tab=repositories).
 > ⚡  **Learn to rest not quit.** 
@@ -28,6 +28,5 @@ Hi, I'm Hardik Bagada, a passionate software developer from :earth_asia: India.
 ![Stats](https://github-readme-stats.vercel.app/api?username=Hardik0307&show_icons=true)
 
 
-*Thanks* :pray: *Github for this special feature.*:innocent:
-<br/>
+
 *Stats generated from [README Stats](https://github.com/anuraghazra/github-readme-stats)*.
